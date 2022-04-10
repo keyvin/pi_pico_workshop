@@ -1,0 +1,11 @@
+1. Micropython vs. circuitpython vs python
+2. Thonny
+3. Installing micropython on pi pico
+4. Connecting via thonny
+5. pi pico pinout
+6. blink & button press (software debouncing)
+6.1 Pi pico file manager
+7. ssd1306 OLED Screen -i2c pins and pin remapping
+8. Neopixel ring/PIO, the secret sauce. 
+9. Reaction timer
+10. Neopixel cycler
