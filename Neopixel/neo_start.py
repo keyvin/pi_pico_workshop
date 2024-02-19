@@ -2,7 +2,7 @@ from neopixel import Neopixel
 import time
  
 numpix = 15
-pixels = Neopixel(numpix, 0, 12, "GRB")
+pixels = Neopixel(numpix, 0, 0, "GRB")
 green = (0, 255, 0)
 blue = (0, 0, 255)
 red = (120, 200,50)
